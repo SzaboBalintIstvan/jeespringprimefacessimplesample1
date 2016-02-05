@@ -1,3 +1,8 @@
 database/
 target/
 .DS_Store
+target
+.settings/*
+!.settings/.jsdtscope
+.project
+.classpath
